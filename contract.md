@@ -1,5 +1,3 @@
-# Bearded's Hourly Contract
-
 Date: [[Date of Document]]
 Between [Our Company]
 and [Your Company]
