@@ -79,18 +79,13 @@ If any provision of this agreement shall be unlawful, void, or for any reason un
 ### Intellectual Property 
 
 You guarantee to us that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide us for inclusion in this work are either owned by yourselves, or that you have permission to use them. 
-We will maintain ownership of all original data, information, formulae, designs, charts, and any other materials created in the process of performance of services or execution of tasks under this contract. This includes ownership of all copyrights, patents, trademarks, and trade secrets, whether or not they are registered. It does not include trademark rights that you established independent of our work under this contract. 
+On completion of this contract as described in Scope of Work, we will transfer ownership of all original data, information, formulae, designs, charts, and any other materials created in the process of performance of services or execution of tasks under this contract to you. This includes ownership of all copyrights, patents, trademarks, and trade secrets, whether or not they are registered. It does not include trademark rights that you established independent of our work under this contract. 
 
 It’s also important to note that, as part of our work, early in each project, we may produce a lot of discussion materials (such as sketches, rough layouts, visualizations or comps). These are prepared solely for the purpose of demonstrating an idea or a message to you for acceptance. Many preliminary concepts will later be modified or rejected entirely. Usually only one concept will be taken through to completion and it is only the approved and finished final art that will be delivered to you.
-We will maintain full ownership of all intellectual property as described above – regardless of whether the subject matter is a preliminary concept or the final concept. 
-
-You are granted an unlimited, transferrable, royalty-free perpetual license to use the final concepts for your own purposes. We are not granting you any licenses with respect to preliminary concepts. 
 
 We will give you a copy of all files and you should store them safely, as we are not required to keep them or provide any native source files that we used in making them. 
 
-We own the HTML markup, CSS and other code and we grant you unlimited, transferrable, royalty-free perpetual license for use on this and any future project.
-
-Finally, because we love to show off our work and share what we have learned with other people, we also reserve the right to display and link to your completed project as part of our portfolio and to write about the project on websites, in magazine articles and in books about design and development. 
+Because we love to show off our work and share what we have learned with other people, we reserve the right to display and link to your completed project as part of our portfolio and to write about the project on websites, in magazine articles and in books about design and development. 
 
 ## Payments 
 
