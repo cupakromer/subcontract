@@ -51,7 +51,7 @@ We are not responsible for writing or inputting any text copy unless we specifie
 
 ### Photographs 
 
-You will supply us photographs either in digital, printed, or film format. If you choose to buy stock photographs we can suggest vendors of stock photography. Any time we spend searching for appropriate photographs will be charged at our hourly design rate. If you require any custom photography, we can provide that as well, and it will be billed at the appropriate hourly rate.
+You will supply us photographs either in digital, printed, or film format. Any time we spend searching for appropriate photographs will be charged at our hourly design rate.
 
 ### Changes & Revisions 
 
