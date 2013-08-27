@@ -9,7 +9,7 @@ We’re not big on formality, but sometimes it’s best to have a few simple thi
 
 ### In Short
 
-You ([Your Company]) are hiring us ([Our Company]) to design, build and deploy a website for your business at the rate of $120/hour.
+You ([Your Company]) are hiring us ([Our Company]) to design, build and deploy a website for your business at the rate of $X/hour.
 
 ### What Do Both Parties Agree To Do? 
 
@@ -68,7 +68,7 @@ We are not a web hosting company and so we do not offer or include technical sup
 ### Hourly Rates for Additional Work
 
 These rates are guaranteed for one year from the date of signing of this contract, and we reserve the right to change these rates after that with thirty days notice to you. This guarantee is limited to the project as described in this contract, as we cannot guarantee that these rates will apply to any another project or contract.
-Consulting, Copy Writing, Design, Photography, Production, Programming: $120
+Consulting, Copy Writing, Design, Photography, Production, Programming: $X
 
 ## Liability & Ownership
 
