@@ -9,7 +9,7 @@ We’re not big on formality, but sometimes it’s best to have a few simple thi
 
 ### In Short
 
-You ([Your Company]) are hiring us ([Our Company]) to [The Tasks You Will Perform] at the rate of $[Your Hourly Rate]/hour. The total cost of the project is not to exceed $Project Cost, and the total number of hours we work is not to exceed [Number of Hours in Project Budget] hours.
+You ([Your Company]) are hiring us ([Our Company]) to design, build and deploy a website for your business at the rate of $120/hour.
 
 ### What Do Both Parties Agree To Do? 
 
