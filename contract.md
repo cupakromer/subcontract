@@ -104,7 +104,9 @@ If we are unable to continue work under this contract due to your inability or f
 ## Final Notes
 
 You cannot transfer this contract to anyone else without our permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place. 
-Although the language is simple, the intentions are serious and this contract is a legal document. The validity of the contract, the construction and meaning of its terms, and the rights of all the parties involved will be governed by the laws of the Commonwealth of Pennsylvania. Any court action based on this contract must be brought in the Court of Common Pleas of Allegheny County, and the winning party will be entitled to the costs of the suit and reasonable attorney’s fees.
+Although the language is simple, the intentions are serious and this contract is a legal document. The validity of the contract, the construction and meaning of its terms, and the rights of all the parties involved will be governed by the laws of the Commonwealth of Virginia. Any court action based on this contract must be brought in the Court of Common Pleas of Allegheny County, and the winning party will be entitled to the costs of the suit and reasonable attorney’s fees.
+
+* Question: What court if any should be specified?
       
 Signed by and on behalf of [Our Company]
 
