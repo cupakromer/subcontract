@@ -68,7 +68,7 @@ We are not a web hosting company and so we do not offer or include technical sup
 ### Hourly Rates for Additional Work
 
 These rates are guaranteed for one year from the date of signing of this contract, and we reserve the right to change these rates after that with thirty days notice to you. This guarantee is limited to the project as described in this contract, as we cannot guarantee that these rates will apply to any another project or contract.
-Consulting, Copy Writing, Design, Photography, Production, Programming: $[Your Hourly Rate]
+Consulting, Copy Writing, Design, Photography, Production, Programming: $120
 
 ## Liability & Ownership
 
