@@ -89,11 +89,13 @@ Because we love to show off our work and share what we have learned with other p
 
 ## Payments 
 
-We are sure you understand how important it is for us, as a small business, that you pay the invoices that we send you promptly. To make things easy, we will bill each Monday for actual hours spent on your project during the previous week.
+We are sure you understand how important it is for us, as a small business, that you pay the invoices that we send you promptly. To make things easy, we will bill each week for actual hours spent on your project during the previous week.
 
 You agree to pay these invoices within 15 days of the date of the invoice. 
 
 Late payments under any part of this contract will accrue interest of one and one half percent (1.5%) per month on any overdue and unpaid balance, and you agree to reimburse us for any expenses incurred in collection.
+
+* Question: Is this rate appropriate?
 
 We may, without any liability, delay performance or cancel this contract or any pending services if circumstances beyond our control prevent us from continuing the work, such as acts of God, war, natural disasters, utility failures, or the unavailability of people or materials. 
 
