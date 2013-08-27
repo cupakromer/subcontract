@@ -23,8 +23,6 @@ We have the experience and ability to perform the services you need from us, and
 
 Our obligations under this contract will be fulfilled when any of the following occur:
 * The project scope is substantially complete, as defined by the Project Specification Document (approved by you).
-We have reached a total project cost of $[Cost of Project] ([Number of Hours in Project Budget] hours of work).
-* The date is [Project Expiration Date] or later.
 
 ### Design
 
