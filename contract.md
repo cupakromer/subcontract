@@ -96,7 +96,7 @@ We are sure you understand how important it is for us, as a small business, that
 
 You agree to pay these invoices within 15 days of the date of the invoice. 
 
-Late payments under any part of this contract will accrue interest of one and one half percent (1.25%) per month on any overdue and unpaid balance, and you agree to reimburse us for any expenses incurred in collection.
+Late payments under any part of this contract will accrue interest of one and one quarter percent (1.25%) per month on any overdue and unpaid balance, and you agree to reimburse us for any expenses incurred in collection.
 
 We may, at our discretion, offer you the opportunity to purchase, in advance, a quantity of hours at a reduced rate. In such a situation we will bill you for the mutually agreed quantity of hours, which may fall out of cycle with the bi-monthly regular schedule. You agree to pay these invoices within 15 days of the date of the invoice. Any unused hours at the completion of this contract are not refundable. 
 
