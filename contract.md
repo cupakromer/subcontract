@@ -31,7 +31,7 @@ If you’re not happy with the designs at any stage, you always have the option 
 
 ### HTML / CSS Layout
 
-If the project includes HTML markup and CSS templates, we will develop these using valid HTML 5 markup and CSS2.1 + 3 for styling. We will test all our markup and CSS in current versions of all major browsers including Safari, Internet Explorer, Mozilla Firefox and Opera.
+If the project includes HTML markup and CSS templates, we will develop these using valid HTML 5 markup and CSS2.1 + 3 for styling. We will test all our markup and CSS in the latest version of all major browsers: Safari, Internet Explorer, Mozilla Firefox and Opera.
 
 We will not test these templates in old or abandoned browsers, for example Microsoft Internet Explorer 6 or 5.5 for Windows or Mac, previous versions of Apple’s Safari, Mozilla Firefox or Opera unless otherwise specified. If you need to show the same or similar visual design to visitors using these older browsers, we will charge you at the appropriate rate for any necessary additional code and its testing.
 
